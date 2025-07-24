@@ -4,15 +4,15 @@ A Fully functional weather app using OpenWeather API
 
 ## Getting Started
 
--Current weather for any location
+- Current weather for any location
 
--Search by city name
+- Search by city name
 
--Displays temperature, humidity, wind speed, and weather conditions
+- Displays temperature, humidity, wind speed, and weather conditions
 
--Responsive design for desktop and mobile
+- Responsive design for desktop and mobile
 
--Easy to use and visually appealing UI
+- Easy to use and visually appealing UI
 
 A few resources which I used to build my first Flutter project:
 
